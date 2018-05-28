@@ -9,6 +9,7 @@ sh run.sh
 A menu-driven program with all the operations supported will run.
 At any point executing the operation
 > 5. Write tree to file
+
 using ```5``` will write the underlying AVL tree into a file which can be viewed by opening a new terminal window and executing
 ```
 sh viewtree.sh
