@@ -11,7 +11,7 @@ Each operation can be executed be entering it's corresponding index number follo
 At any point, executing the operation
 > 5. Write tree to file
 
-using ```5``` will write the underlying AVL tree into a text file which can be viewed by opening a new terminal window and executing
+using ```5``` will write the underlying AVL tree into a text file which can be viewed as an image by opening a new terminal window and executing
 ```
 sh viewtree.sh
 ```
