@@ -6,8 +6,8 @@ Run the code using
 ```
 sh run.sh
 ```
-A menu-driven program with all the operations supported will run.
-Each operation can be executed be entering it's corresponding index number followed by any required arguments (if any).
+A menu-driven program with all the operations supported will run.\
+Each operation can be executed be entering it's corresponding index number followed by any required arguments (if any).\
 At any point, executing the operation
 > 5. Write tree to file
 
@@ -18,6 +18,6 @@ sh viewtree.sh
 
 
 ### Prerequisites
-[GCC](https://gcc.gnu.org/install/)
-[Graphviz](https://graphviz.gitlab.io/download/) - for viewing the tree
+[GCC](https://gcc.gnu.org/install/)\
+[Graphviz](https://graphviz.gitlab.io/download/) - for viewing the tree\
 Any image viewer that can open ```svg``` files
