@@ -1,6 +1,6 @@
 /*
 AVL Tree in C
-Author: Snuvind Bhat
+Author: Anuvind Bhat
 Date: 28th May 2018
 A C implementation of a multi-set using an AVL Tree as the underlying data structure
 */
