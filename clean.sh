@@ -1,1 +1,1 @@
-rm -f *.out *.myoutputdot *.myoutputsvg
+rm -f *.out *.dot *.svg

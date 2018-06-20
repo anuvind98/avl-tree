@@ -1,3 +1,3 @@
-rm -f *.myoutputsvg
-dot -Tsvg bst.myoutputdot -o bst.myoutputsvg
-xdg-open bst.myoutputsvg
+rm -f *.svg
+dot -Tsvg bst.dot -o bst.svg
+xdg-open bst.svg

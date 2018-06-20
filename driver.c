@@ -82,7 +82,7 @@ int main() {
 			printf("Inserted %d keys in %lf ms\n", hi - lo + 1, getTimeInMS(begin, end));
 			break;
 		case 5:
-			fptr = fopen("bst.myoutputdot", "w");
+			fptr = fopen("bst.dot", "w");
 			convert2DOT(t, fptr);
 			fclose(fptr);
 			break;
